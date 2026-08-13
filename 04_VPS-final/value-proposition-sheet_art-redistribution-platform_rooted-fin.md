@@ -1,9 +1,10 @@
-# 💡 Value Proposition Sheet — 예술품 재분배 × 미술품 토큰증권 가치순환 플랫폼 (Rooted V2.0)
+# 💡 Value Proposition Sheet — 예술품 재분배 × 미술품 토큰증권 가치순환 플랫폼 (Rooted · Final)
 
-> **문서 버전:** V2.0 (Rooted — 자기완결형)
-> **통합 원본:** `01-porters-five-forces/`~`08-competitor-branding/` 챕터 01~08 전체(단, 01~03은 별도 사업인 핀테크 마이데이터/토큰증권 실습이므로 이 문서에는 통합하지 않는다 — §0 참조)
+> **문서 위치:** `04_VPS-final/` — 이 폴더는 공식 커리큘럼 챕터(01~09)가 아니라, [PRD-From-VPS-Sample](https://github.com/wild-mental/PRD-From-VPS-Sample) 저장소의 작업 단계 구조(`00_Prompt-History → 01_Biz-Analysis → 02_VPS-Drafts → 03_PRD-Drafts → 04_VPS-final`)를 그대로 미러링한 **별도 실습 트랙**이다. 공식 챕터 09의 산출물은 [09-value-proposition/](../09-value-proposition/)에 그대로 남아 있다 — 이 문서는 그것을 대체하지 않는다.
+> **문서 버전:** Rooted (자기완결형) — [02_VPS-Drafts](../02_VPS-Drafts/)의 draft 단계를 거쳐 이 폴더에서 최종화됨
+> **통합 원본:** `04-tam-sam-som/`~`08-competitor-branding/` 챕터 04~08 전체(01~03은 별도 사업인 핀테크 마이데이터/토큰증권 실습이므로 통합하지 않는다 — §0 참조)
 > **작성 대상:** 미술품 토큰증권을 기획하다가 가치가 충분히 발견되지 못한 작품의 순환 문제를 발견한 예비 창업팀
-> **작성 목적:** 비즈니스 리서치(TAM-SAM-SOM, 페르소나 스펙트럼, CJM, AOS-DOS, JTBD, 경쟁 지형·가치 선언)를 이 문서 안에 직접 포함(rooting)하여, *왜 이 시장인지, 누구에게, 어떤 본질적 가치를, 어떤 차별성으로 제공하는지*를 정의하고 MVP 개발 계획까지 **단일 문서로 관리**한다. 방법론 출처: [강사 08-2 지침 — VPS를 통합본으로 고도화](https://wildmental.notion.site/08-2-VPS-3bad03212bd480ddb391fed7e1d866ac), 형식 출처: [PRD-From-VPS-Sample](https://github.com/wild-mental/PRD-From-VPS-Sample/blob/main/04_VPS-final/06_value-proposition-sheet_260410(fin).md)
+> **작성 목적:** 비즈니스 리서치(TAM-SAM-SOM, 페르소나 스펙트럼, CJM, AOS-DOS, JTBD, 경쟁 지형·가치 선언)를 이 문서 안에 직접 포함(rooting)하여, *왜 이 시장인지, 누구에게, 어떤 본질적 가치를, 어떤 차별성으로 제공하는지*를 정의하고 MVP 개발 계획까지 **단일 문서로 관리**한다. 방법론 출처: [강사 08-2 지침 — VPS를 통합본으로 고도화](https://wildmental.notion.site/08-2-VPS-3bad03212bd480ddb391fed7e1d866ac), 형식 출처: [PRD-From-VPS-Sample/04_VPS-final](https://github.com/wild-mental/PRD-From-VPS-Sample/blob/main/04_VPS-final/06_value-proposition-sheet_260410(fin).md)
 
 ---
 
@@ -31,16 +32,23 @@
 
 ---
 
-## 0. 이 문서의 범위 — 왜 01~03이 아니라 04~08인가
+## 0. 이 문서의 범위 — 두 개의 서로 다른 구조가 이 저장소에 공존한다
 
-우리 저장소는 **두 개의 독립된 실습 사업**을 담고 있다.
+| 구조 | 성격 | 이 문서와의 관계 |
+|---|---|---|
+| **`01-`~`09-` 번호 챕터** | SeSAC 공식 커리큘럼([wild-mental/business-research-practice-2026-sesac](https://github.com/wild-mental/business-research-practice-2026-sesac) 형식). 09-value-proposition에서 끝나며 10번은 존재하지 않는다 | 이 문서의 **원본 데이터** — 아래 Ⅱ~Ⅳ가 발췌·요약해 담는다 |
+| **`00_`~`04_` 언더스코어 폴더** | [PRD-From-VPS-Sample](https://github.com/wild-mental/PRD-From-VPS-Sample) 저장소의 작업 단계 구조를 미러링한 **별도 실습 트랙**. 챕터 번호가 아니라 작업 단계(Prompt 이력→분석→VPS 초안→PRD 초안→VPS 최종)를 나타낸다 | **이 문서가 속한 곳** — `04_VPS-final` 단계 |
+
+그중 번호 챕터 내에서도 우리 저장소는 **두 개의 독립된 실습 사업**을 담고 있다.
 
 | 챕터 | 사업 | 이 문서와의 관계 |
 |---|---|---|
 | [01-porters-five-forces](../01-porters-five-forces/) · [02-value-chain](../02-value-chain/) · [03-ksf](../03-ksf/) | 핀테크 마이데이터 vs 토큰증권 (별도 실습) | **통합하지 않음** — 다른 사업 |
-| [04-tam-sam-som](../04-tam-sam-som/) · [05-persona-journey](../05-persona-journey/) · [06-opportunity-score](../06-opportunity-score/) · [07-jtbd](../07-jtbd/) · [08-competitor-branding](../08-competitor-branding/) | 예술품 재분배 × 미술품 토큰증권 가치순환 플랫폼 | **이 문서의 원본** |
+| [04-tam-sam-som](../04-tam-sam-som/) · [05-persona-journey](../05-persona-journey/) · [06-opportunity-score](../06-opportunity-score/) · [07-jtbd](../07-jtbd/) · [08-competitor-branding](../08-competitor-branding/) · [09-value-proposition](../09-value-proposition/) | 예술품 재분배 × 미술품 토큰증권 가치순환 플랫폼 | **이 문서의 원본** |
 
 이 사업은 미술품 토큰증권을 기획하다가 **가치가 충분히 발견되지 못한·미활용·보관한계 작품을 어떻게 순환시킬 것인가**라는 문제를 발견하면서 시작됐다([챕터 04 사후 기록](../04-tam-sam-som/분석-03-예술품-재분배-플랫폼.md#-사후-기록--이-사업의-출발점은-미술품-토큰증권-기획이다)). 아래 Ⅱ~Ⅳ는 챕터 04~08의 산출물을 요약·발췌해 이 문서 안에 직접 담되(rooting), 세부 산출 근거는 각 챕터 원본에 남겨 이중 관리를 피한다.
+
+> 📌 **왜 `01_Biz-Analysis`를 그대로 재사용하지 않고 챕터 원본 링크를 유지하는가.** 샘플 저장소의 `01_Biz-Analysis`는 한 사업에 대한 Porter's·경쟁사·가치사슬·KSF·TAM-SAM-SOM·페르소나·CJM·AOS-DOS·JTBD 10종이 전부 갖춰져 있다. 우리는 [01_Biz-Analysis](../01_Biz-Analysis/)에 동일한 10개 파일을 만들되, Porter's·가치사슬·KSF 3종은 **이 사업에 대해 작성된 적이 없다는 사실을 숨기지 않고 결번으로 남긴다**(§1_biz-analysis 참조).
 
 ---
 
@@ -338,7 +346,7 @@ flowchart TD
 
 TAM-SAM-SOM·경쟁 AOS재판정·비어있는세자리·JTBD·외부실측 — **다섯 개의 독립된 리서치 경로가 전부** 이 지점을 최우선 공백으로 지목했다(§Ⅹ 참조). 이 기능 없이는 Gate 1을 통과한 공급도, Funding 의향이 있는 기부자도 실제 사례로 이어지지 않는다.
 
-> **근거:** [챕터 09 v1.0 §7-1 다섯 경로 수렴](./value-proposition-03-art-redistribution-platform-v1.0.md#7-1-다섯-경로가-같은-결론으로-수렴한다), O05 DOS(SAM) 4.00(전체 1위)
+> **근거:** [챕터 09 공식본 §7-1 다섯 경로 수렴](../09-value-proposition/value-proposition-03-art-redistribution-platform-v1.0.md#7-1-다섯-경로가-같은-결론으로-수렴한다), O05 DOS(SAM) 4.00(전체 1위)
 
 ### 2. "가치상승"을 팔지 마십시오 — 검증 가능한 이력만 파십시오
 
@@ -498,4 +506,5 @@ R8(참여 포기 작가)의 발견 — *"'재분배 우선 작품'이 제 작품
 | 3 | [챕터 06 평가대상](../06-opportunity-score/평가대상-03-대표-페인포인트.md) · [AOS](../06-opportunity-score/분석-03-예술품-재분배-플랫폼.md) · [DOS](../06-opportunity-score/분석-03-예술품-재분배-플랫폼-DOS.md) · [혼합매트릭스](../06-opportunity-score/분석-03-예술품-재분배-플랫폼-혼합매트릭스.md) | AOS-DOS 통합 분석 | Ⅲ 전체 |
 | 4 | [챕터 07 JTBD 모의결과보고서](../07-jtbd/모의결과보고서-03-예술품-재분배-플랫폼.md) | JTBD 인터뷰 | Ⅳ 전체, Ⅴ Proof |
 | 5 | [챕터 08 경쟁 지형과 가치 선언](../08-competitor-branding/경쟁사-가치선언-3-예술품-재분배-플랫폼.md) · [차별적 가치목표 제안](../08-competitor-branding/가치목표-제안-3-예술품-재분배-플랫폼.md) | 경쟁 분석, Value Proposition | Ⅱ-1.2, Ⅴ, Ⅶ |
-| 6 | [챕터 09 v1.0 (초안)](./value-proposition-03-art-redistribution-platform-v1.0.md) | 이전 VPS 초안(참조형) | 전체 구조의 1차 버전 |
+| 6 | [챕터 09 공식본 (v1.0)](../09-value-proposition/value-proposition-03-art-redistribution-platform-v1.0.md) | 공식 커리큘럼 챕터 09 산출물 | 이 문서와는 별개로 유지되는 공식 형식 |
+| 7 | [01_Biz-Analysis](../01_Biz-Analysis/) · [02_VPS-Drafts](../02_VPS-Drafts/) · [03_PRD-Drafts](../03_PRD-Drafts/) | 이 실습 트랙의 앞 단계 | Ⅰ~Ⅹ 전체가 거친 단계별 산출물 |

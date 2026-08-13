@@ -2,7 +2,7 @@
 
 - **Owner 팀:** Product & Engineering
 - **최종 업데이트:** 2026-08-14
-- **기반 문서:** [VPS Rooted V2.0](../09-value-proposition/value-proposition-sheet-03-art-redistribution-platform-v2.0-rooted.md)
+- **기반 문서:** [VPS Rooted · Final](../04_VPS-final/value-proposition-sheet_art-redistribution-platform_rooted-fin.md) (공식 챕터 09가 아니라 [`00_Prompt-History`~`04_VPS-final` 실습 트랙](../04_VPS-final/value-proposition-sheet_art-redistribution-platform_rooted-fin.md#0-이-문서의-범위--두-개의-서로-다른-구조가-이-저장소에-공존한다)의 산출물)
 - **방법론 출처:** [강사 09 - PRD 작성하기](https://wildmental.notion.site/09-PRD-Product-Requirement-Document-3b7d03212bd480adb9f6f0a51c974b05), 형식 출처: [PRD-From-VPS-Sample/03_PRD-Drafts/PRD_v0.1.md](https://github.com/wild-mental/PRD-From-VPS-Sample/blob/main/03_PRD-Drafts/PRD_v0.1.md)
 
 ---
